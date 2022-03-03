@@ -1,6 +1,6 @@
   # Hi there👋! My name is DERELMI
 #### A WEB & SOFTWARE DEVELOPER
-![image](https://user-images.githubusercontent.com/87049674/156478728-13f9108a-0947-4025-9a6d-51b590dfe7d7.png)
+![WEB & SOFTWARE DEVELOPER](https://github.com/Derelmi/Derelmi/blob/main/programming-web-banner-best-languages-260nw-1676060566%20(2).jpg)
 
 Really enjoy learning languages and frameworks like Bootstrap, React/React Native. Love to listen to music in my free time just to relax, explore the world of technology like phones , cars and laptons .
 
