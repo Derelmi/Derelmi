@@ -5,12 +5,12 @@
 Really enjoy learning languages and frameworks like Bootstrap, React/React Native. Love to listen to music in my free time just to relax, explore the world of technology like phones , cars and laptons .
 
 ## SKILLS AND EXPERIENCE 
-  * REACT
-  * JS 
-  * HTML
-  * CSS 
-  * PHP
-  * PY
+  * ☀ REACT
+  * 📱 JS 
+  * 💻 HTML
+  * 🎨 CSS 
+  * 🛠 PHP
+  * 🎮 PY
  
  
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DERELMI&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
