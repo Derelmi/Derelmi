@@ -33,11 +33,21 @@ Really enjoy learning languages and frameworks like Bootstrap, React/React Nativ
  <h2>🏆My Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Derelmi&column=8&theme=gruvbox&no-frame=false"/>
 
+## <p align= "center"> Contact Me </p>
+<p align= "center">
+ <a href="mailto:richardnjom12@gmail.com?subject=REQUEST">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+<!--   <a href="https://t.me/sayaprayer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp; -->
+ <a href="https://wa.me/+233500018787">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Derelmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/de_rel_mi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/De_Rel_Mi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](chukwu-derelmi)
-
-
  
-
 © 2022 GitHub, Inc.
 Terms
 Privacy
