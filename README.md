@@ -47,6 +47,12 @@ Really enjoy learning languages and frameworks like Bootstrap, React/React Nativ
 </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Derelmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/de_rel_mi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/De_Rel_Mi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](chukwu-derelmi)
+
+<p align="center"> 
+  Visitor count<br>
+<!--   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" /> -->
+ <img src="https://profile-counter.glitch.me/Derelmi/count.svg" />
+</p>
  
 © 2022 GitHub, Inc.
 Terms
