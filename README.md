@@ -4,15 +4,15 @@
 
 Really enjoy learning languages and frameworks like Bootstrap, React/React Native. Love to listen to music in my free time just to relax, explore the world of technology like phones , cars and laptons .
 
-## SKILLS AND EXPERIENCE 
+<p align="center"> ## SKILLS AND EXPERIENCE 
 <!--   * ☀ REACT
   * 📱 JS 
   * 💻 HTML
   * 🎨 CSS 
   * 🛠 PHP
   * 🎮 PY -->
-
-  <p align="left">
+  
+  <p align="center">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
@@ -20,6 +20,9 @@ Really enjoy learning languages and frameworks like Bootstrap, React/React Nativ
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  alt="bootstrap" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  alt="flutter" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="30" />
 </p>
 
 
@@ -46,7 +49,11 @@ Really enjoy learning languages and frameworks like Bootstrap, React/React Nativ
   </a>&nbsp;&nbsp;
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Derelmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/de_rel_mi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/De_Rel_Mi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](chukwu-derelmi)
+[ <p align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Derelmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/de_rel_mi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/De_Rel_Mi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40' >](chukwu-derelmi)
+
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left"> ⚒ My Tech Stack 🎇</h3>
+
 
 <p align="center"> 
   Visitor count<br>
@@ -54,7 +61,7 @@ Really enjoy learning languages and frameworks like Bootstrap, React/React Nativ
  <img src="https://profile-counter.glitch.me/Derelmi/count.svg" />
 </p>
  
-© 2022 GitHub, Inc.
+© 2021 GitHub, Inc.
 Terms
 Privacy
 Security
