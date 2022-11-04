@@ -29,6 +29,7 @@ Really enjoy learning languages and frameworks like Bootstrap, React/React Nativ
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Derelmi&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Derelmi&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Derelmi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Derelmi&theme=github_dark)
 [![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=Derelmi&show_icons=true&theme=github_dark)](https://github.com/Derelmi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derelmi&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/Derelmi)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Derelmi&theme=dracula)  
