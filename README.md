@@ -1,5 +1,5 @@
   # Hi there👋! I'm DERELMI
-#### A WEB & SOFTWARE DEVELOPER
+#### A SOFTWARE DEVELOPER
 ![WEB & SOFTWARE DEVELOPER](https://github.com/Derelmi/Derelmi/blob/main/programming-web-banner-best-languages-260nw-1676060566%20(2).jpg)
 
 Really enjoy learning languages and frameworks like Bootstrap, React/React Native. Love to listen to music in my free time just to relax, explore the world of technology like phones , cars and laptons .
