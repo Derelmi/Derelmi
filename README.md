@@ -4,7 +4,7 @@
 
 Really enjoy learning languages and frameworks like Bootstrap, React/React Native. Love to listen to music in my free time just to relax, explore the world of technology like phones , cars and laptons .
 
-<p align="center"> ## SKILLS AND EXPERIENCE 
+<p align="center">SKILLS AND EXPERIENCE 
 <!--   * ☀ REACT
   * 📱 JS 
   * 💻 HTML
